@@ -19,26 +19,26 @@ CampusConnect helps students view study space availability and plan ahead.
 ## Prototype Screens (6-Screen Flow)
 
 ### 1. Login
-![Login]https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/login.png)
+![Login](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/login.png)
 
 ### 2. Home
-![Home]
+![Home](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/home.png)
 
 
 ### 3.  Study Space
-![Details]
+![Details](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/studyspace.png)
 
 ### 4. Create
-![Details]
+![Details](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/create.png)
 
 ### 5. Friends
-![Friendspage]
+![Friendspage](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/friends.png)
 
 ### 6. Pomodoro
-![Details]
+![Details](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/timer.png)
 
 ### 6. Find
-![Details]
+![Details](https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/find.png)
 
 
 ## Prototype Link
