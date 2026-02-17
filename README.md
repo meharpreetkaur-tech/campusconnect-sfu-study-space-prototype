@@ -19,10 +19,11 @@ CampusConnect helps students view study space availability and plan ahead.
 ## Prototype Screens (6-Screen Flow)
 
 ### 1. Login
-![Login]
+![Login]https://raw.githubusercontent.com/meharpreetkaur-tech/campusconnect-sfu-study-space-prototype/main/studyspace/login.png)
 
 ### 2. Home
 ![Home]
+
 
 ### 3.  Study Space
 ![Details]
